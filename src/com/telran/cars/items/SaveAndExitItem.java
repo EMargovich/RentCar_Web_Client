@@ -1,5 +1,6 @@
 package com.telran.cars.items;
 
+import com.telran.cars.models.IRentCompany;
 import com.telran.utils.Persistable;
 
 import view.InputOutput;
