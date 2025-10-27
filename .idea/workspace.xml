@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fc6f782-5da2-4f38-9827-f91f5f2559a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/libraries/cli_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/RentCar_Spring6_API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/RentCar_Sprint6_Client/RentCar_Sprint6_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-api-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-engine-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-params-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-platform-commons-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-platform-engine-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/api/APIConstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/RemovedCarData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/RentCarData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/RentRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/ReturnCarData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/StatisticsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/enums/CarsReturnCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/enums/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/models/AbstractRentCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/models/IRentCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/cli_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/cli_new__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentCar_Sprint6_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-jars/TCP_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-jars/cli_new.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/RentCompanyApplItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/RentCompanyItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/SaveAndExitItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/clerk/AddDriverItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/driver/GetCarItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/driver/GetDriverItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/manager/AddCarItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/manager/AddModelItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/models/RentCompanyTCPProxy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34VsxJsrQ1BpOJCLVCIW8gHW7AC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RentCompanyAppl.executor": "Run",
+    "Application.RentCompanyApplItems.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.RentCompanyEmbeddedTest.executor": "Run",
+    "JUnit.RentCompanyEmbeddedTestStatistics.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Java/TelRun/RentCar_Sprint6_Server",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.14015152"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.telran.cars.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\TelRun\RentCar_Sprint6_Client\my-jars" />
+      <recent name="C:\Java\TelRun\RentCar_Sprint6_Client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\TelRun\RentCar_Sprint6_Client" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc6f782-5da2-4f38-9827-f91f5f2559a2" name="Changes" comment="" />
+      <created>1761310321475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761310321475</updated>
+    </task>
+    <servers />
+  </component>
+</project>
