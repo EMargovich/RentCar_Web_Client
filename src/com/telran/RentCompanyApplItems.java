@@ -1,6 +1,4 @@
-package com.telran;
-
-
+package com.telran.cars.tests;
 
 import com.telran.cars.items.clerk.*;
 

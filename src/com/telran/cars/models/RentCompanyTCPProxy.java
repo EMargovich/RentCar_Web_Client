@@ -104,4 +104,10 @@ public class RentCompanyTCPProxy extends TCPClientJava implements IRentCompany {
     public List<String> getModelNames() {
         return sendRequest(GET_MODEL_CARS, null);
     }
+
+    //For tests
+    @Override
+    public void clear_company() {
+        sendRequest(CLEAR_COMPANY, null);
+    }
 }

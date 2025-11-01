@@ -4,56 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fc6f782-5da2-4f38-9827-f91f5f2559a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/libraries/cli_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/RentCar_Spring6_API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/RentCar_Sprint6_Client/RentCar_Sprint6_Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-api-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-engine-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-jupiter-params-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-platform-commons-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/junit-platform-engine-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/lib/opentest4j-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/api/APIConstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/RemovedCarData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/RentCarData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/RentRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/ReturnCarData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/StatisticsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/enums/CarsReturnCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/dto/enums/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/models/AbstractRentCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RentCar_Spring6_API/src/com/telran/cars/models/IRentCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cli_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cli_new__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RentCar_Sprint6_Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-jars/TCP_2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-jars/cli_new.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/RentCompanyApplItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/RentCompanyItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/SaveAndExitItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/clerk/AddDriverItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/driver/GetCarItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/driver/GetDriverItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/manager/AddCarItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/items/manager/AddModelItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/models/RentCompanyTCPProxy.java" afterDir="false" />
+    <list default="true" id="0fc6f782-5da2-4f38-9827-f91f5f2559a2" name="Changes" comment="ClassWork 27_10_2015">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/TCP_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/TCP_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-jars/TCP2_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/tests/RentCarWebStatisticsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/telran/cars/tests/RentCarWebTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RentCar_Sprint6_Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RentCar_Sprint6_Client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-jars/TCP_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/telran/RentCompanyApplItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/telran/RentCompanyApplItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/telran/cars/models/RentCompanyTCPProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/telran/cars/models/RentCompanyTCPProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EMargovich&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EMargovich/RentCar_Web_Client.git&quot;,
+    &quot;accountId&quot;: &quot;dc5f7059-2fd0-4641-bef0-bf51c66dcf63&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -85,6 +61,45 @@
     "Application.RentCompanyAppl.executor": "Run",
     "Application.RentCompanyApplItems.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.RentCarWebStatisticsTest.executor": "Run",
+    "JUnit.RentCarWebStatisticsTest.testGetMostPopularCarModels.executor": "Run",
+    "JUnit.RentCarWebStatisticsTest.testGetMostProfitableCarModels.executor": "Run",
+    "JUnit.RentCarWebTest.executor": "Run",
+    "JUnit.RentCarWebTest.removeCar_idempotent_onAlreadyRemovedAndNotExists.executor": "Run",
+    "JUnit.RentCarWebTest.removeCar_inUse_excludedFromModelList_untilReturn.executor": "Run",
+    "JUnit.RentCarWebTest.removeCar_whenInUse_onlyFlagsRemoved_untilReturn.executor": "Run",
+    "JUnit.RentCarWebTest.removeCar_whenNotInUse_removesFully_andRecordsGoneFromIndexes.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_afterPositiveReturn_canRentAgain.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_delayAndFuel_addsBothPartsToCost.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_heavyDamages_removesCarAndCleansIndexes.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_noDelay_fullTank_onlyBase_andStateExcellent.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_noFullTank_addsFuel_andStateByDamages.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_notRented_returnsNullCar_andNoChanges.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_state_damage1_isEXCELLENT_and_damage11_isGOOD.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_state_damage60_isBAD_notRemoved_and_damage61_removed.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_withDelay_addsFine.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_wrongCar_keepsInUse_andNoRecordsWritten.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_wrongDriver_keepsInUse_andNoRecordsWritten.executor": "Run",
+    "JUnit.RentCarWebTest.returnCar_zeroDelay_partialFuel_onlyFuelAdded.executor": "Run",
+    "JUnit.RentCarWebTest.testAdd_Duplicate_entities.executor": "Run",
+    "JUnit.RentCarWebTest.testAdd_car_NO_MODEL.executor": "Run",
+    "JUnit.RentCarWebTest.testAdd_get_Enities_OK.executor": "Run",
+    "JUnit.RentCarWebTest.testAdd_get_Entities_OK.executor": "Run",
+    "JUnit.RentCarWebTest.testCarsByDriver.executor": "Run",
+    "JUnit.RentCarWebTest.testCarsByModel.executor": "Run",
+    "JUnit.RentCarWebTest.testDriversByCar.executor": "Run",
+    "JUnit.RentCarWebTest.testRemoveCarsInUse.executor": "Run",
+    "JUnit.RentCarWebTest.testRemoveCarsNotInUse.executor": "Run",
+    "JUnit.RentCarWebTest.testRentCarNO_CAR.executor": "Run",
+    "JUnit.RentCarWebTest.testRentCarNO_Driver.executor": "Run",
+    "JUnit.RentCarWebTest.testRentCarOK.executor": "Run",
+    "JUnit.RentCarWebTest.testRentCarRemove_Use.executor": "Run",
+    "JUnit.RentCarWebTest.testRentRecords.executor": "Run",
+    "JUnit.RentCarWebTest.test_get_when_not_added.executor": "Run",
+    "JUnit.RentCarWebTestTest.executor": "Run",
+    "JUnit.RentCarWebTestTest.returnCar_wrongDriver_keepsInUse_andNoRecordsWritten.executor": "Run",
+    "JUnit.RentCarWebTestTest.testAdd_car_NO_MODEL.executor": "Run",
+    "JUnit.RentCarWebTestTest.testAdd_get_Enities_OK.executor": "Run",
     "JUnit.RentCompanyEmbeddedTest.executor": "Run",
     "JUnit.RentCompanyEmbeddedTestStatistics.executor": "Run",
     "Repository.Attach.Annotations": "false",
@@ -95,10 +110,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Java/TelRun/RentCar_Sprint6_Server",
+    "last_opened_file_path": "C:/Java/TelRun/RentCar_Sprint6_Client/my-jars",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.14015152"
+    "project.structure.side.proportion": "0.14015152",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -106,12 +122,104 @@
       <recent name="com.telran.cars.models" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\TelRun\RentCar_Sprint6_Client\src\com\telran\tests" />
       <recent name="C:\Java\TelRun\RentCar_Sprint6_Client\my-jars" />
       <recent name="C:\Java\TelRun\RentCar_Sprint6_Client" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\TelRun\RentCar_Sprint6_Client\src\com\telran\tests" />
       <recent name="C:\Java\TelRun\RentCar_Sprint6_Client" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RentCarWebTest.testCarsByDriver">
+    <configuration name="RentCarWebTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCar_Sprint6_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cars.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cars.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cars.tests.RentCarWebTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentCarWebTest.testAdd_get_Entities_OK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCar_Sprint6_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cars.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cars.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cars.tests.RentCarWebTest" />
+      <option name="METHOD_NAME" value="testAdd_get_Entities_OK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentCarWebTest.testCarsByDriver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCar_Sprint6_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cars.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cars.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cars.tests.RentCarWebTest" />
+      <option name="METHOD_NAME" value="testCarsByDriver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentCarWebTest.testRentCarNO_Driver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCar_Sprint6_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cars.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cars.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cars.tests.RentCarWebTest" />
+      <option name="METHOD_NAME" value="testRentCarNO_Driver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentCarWebTest.test_get_when_not_added" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCar_Sprint6_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.cars.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.cars.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.cars.tests.RentCarWebTest" />
+      <option name="METHOD_NAME" value="test_get_when_not_added" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RentCarWebTest.testCarsByDriver" />
+        <item itemvalue="JUnit.RentCarWebTest.testRentCarNO_Driver" />
+        <item itemvalue="JUnit.RentCarWebTest.test_get_when_not_added" />
+        <item itemvalue="JUnit.RentCarWebTest.testAdd_get_Entities_OK" />
+        <item itemvalue="JUnit.RentCarWebTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -122,6 +230,27 @@
       <option name="presentableId" value="Default" />
       <updated>1761310321475</updated>
     </task>
+    <task id="LOCAL-00001" summary="ClassWork 27_10_2015">
+      <option name="closed" value="true" />
+      <created>1761600497257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761600497257</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ClassWork 27_10_2015">
+      <option name="closed" value="true" />
+      <created>1761600835099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761600835099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ClassWork 27_10_2015" />
+    <option name="LAST_COMMIT_MESSAGE" value="ClassWork 27_10_2015" />
   </component>
 </project>
